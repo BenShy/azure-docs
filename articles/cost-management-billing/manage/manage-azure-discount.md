@@ -120,4 +120,4 @@ The user who accepted the discount proposal automatically gets owner access to t
  - [What is a cloud subscription](../../cost-management-billing/manage/cloud-subscription.md)
  - [Move Azure resources to a new resource group or subscription](../../azure-resource-manager/management/move-resource-group-and-subscription.md)
  
- 
+
